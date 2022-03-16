@@ -8,6 +8,9 @@
 
 <br>
 
+### **홍보영상**
+[![Video Label](http://img.youtube.com/vi/QWc_KZbUhEo/0.jpg)](https://youtu.be/QWc_KZbUhEo)
+
 
 
 ### **개요**
